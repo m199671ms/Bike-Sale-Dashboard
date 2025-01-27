@@ -1,6 +1,8 @@
 # Bike-Sale-Dashboard
 Bike Sale Dashboard 🚴‍♂️📊  This project features an interactive dashboard built using Excel to analyze bike sales data. The dashboard provides a comprehensive view of sales trends based on various demographic and economic factors.
 
+![Bike Sale Dashboard](https://github.com/m199671ms/Bike-Sale-Dashboard/blob/main/Screenshot%202025-01-27%20000420.png)
+
 
 Key Features:
 Gender Analysis: A comparison of purchase counts between males and females.
@@ -17,3 +19,5 @@ Use the filters to select the categories you want to analyze.
 Explore the visualizations for valuable insights.
 Notes:
 This project is part of my journey in data analysis and dashboard design. I welcome any feedback or suggestions for improvement! 🙏
+
+
